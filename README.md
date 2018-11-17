@@ -1,6 +1,6 @@
 # Superheroes APP 
 
-[Live demo] (https://podcasts-lwdvpuhlga.now.sh/)
+Made With Angular. 
 
 ## How it works?
 
