@@ -1,6 +1,6 @@
 # Superheroes APP 
 
-[Ver la aplicación] (https://podcasts-lwdvpuhlga.now.sh/)
+[Live demo] (https://podcasts-lwdvpuhlga.now.sh/)
 
 ## How it works?
 
