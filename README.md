@@ -1,5 +1,10 @@
-# 2.SuperHerosApp
+# Superheroes APP 
 
-Made with Angular.
+[Live demo] (google.com)
 
-Link: https://abcdestebann.github.io/2.SuperHerosApp/
+## How it works?
+
+Requires Node.js > v7 and Angular > v2
+
+* `npm install` to install dependencies.
+* `ng serve --open` to start server in development.
